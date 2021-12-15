@@ -1,0 +1,87 @@
+
+h1 {
+	color:red;
+	font-size:25px;
+	font-family:cursive;
+}
+h2 {
+	color:green;
+	font-size:25px;
+	font-family:cursive;
+}
+h3 {
+	color:orange;
+	font-size:25px;
+	font-family:cursive;
+}
+h4 {
+	color:yellow;
+	font-size:25px;
+	font-family:cursive;
+}
+h5 {
+	color:blue;
+	font-size:25px;
+	font-family:cursive;
+}
+h6 {
+	color:purple;
+	font-size:25px;
+	font-family:cursive;
+}
+p {
+	color: black;
+	font-size:14px;
+	font-family: cursive;
+}
+.container{
+	margin: 10px;
+}
+
+.profile-picture-cv.jpeg{
+  	height:100 px;
+}
+.img-circle{
+  	border-radius:45%;  
+}
+.img-border{
+	border:3px  inset black;
+}
+#button{
+	text-decoration: none;
+	background-color: white;
+	padding:9px;
+}	
+#button:hover{
+	background-color: beige;
+	color: white;
+}	
+.container{
+	width: 800px;
+	margin:40px auto;
+	background-color: white;
+}	
+.card-white{
+	background-color: white;
+	padding:50px;
+	border-radius:4px;
+	box-shadow:0px 15px 35px grey;
+	margin:40px;
+	text-align: center;
+}
+.list-inline{
+	list-style: none;
+	padding-left:0px;
+}
+.list-inline li{
+	display: inline;
+	padding:10px;
+}
+.list-inline i{
+	font-size:30px;
+	color:black;
+}
+
+#intro p{
+	margin-bottom:40px;
+}
